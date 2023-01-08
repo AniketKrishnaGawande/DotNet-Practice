@@ -1,0 +1,38 @@
+@{
+    ViewData["Title"] = "Product List";
+}
+<h1>@ViewData["Title"]</h1>
+<div>
+
+    <table>
+
+        <tr>
+            <th>
+                Product Name
+            </th>
+            <th>
+                Product Quantity
+            </th>
+        </tr>
+        @{
+            List<Products> list = (List<Products>)ViewData["catelog"];
+
+            @foreach (Products item in list)
+            {
+                <tr>
+                    <td>
+                        @item.Pname
+                    </td>
+                    <td>
+                        @item.Qtn
+                    </td>
+                </tr>
+            }
+        }
+
+
+    </table>
+
+
+
+</div>
