@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\serialisation in web .net\\LoginAndRegister\\LoginAndRegister.csproj": {}
+    "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\serialisation in web .net\\DotNet-Practice\\LoginAndRegister\\LoginAndRegister.csproj": {}
   },
   "projects": {
-    "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\serialisation in web .net\\LoginAndRegister\\LoginAndRegister.csproj": {
+    "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\serialisation in web .net\\DotNet-Practice\\LoginAndRegister\\LoginAndRegister.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\serialisation in web .net\\LoginAndRegister\\LoginAndRegister.csproj",
+        "projectUniqueName": "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\serialisation in web .net\\DotNet-Practice\\LoginAndRegister\\LoginAndRegister.csproj",
         "projectName": "LoginAndRegister",
-        "projectPath": "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\serialisation in web .net\\LoginAndRegister\\LoginAndRegister.csproj",
+        "projectPath": "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\serialisation in web .net\\DotNet-Practice\\LoginAndRegister\\LoginAndRegister.csproj",
         "packagesPath": "C:\\Users\\Aniket\\.nuget\\packages\\",
-        "outputPath": "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\serialisation in web .net\\LoginAndRegister\\obj\\",
+        "outputPath": "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\serialisation in web .net\\DotNet-Practice\\LoginAndRegister\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aniket\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -26,7 +26,7 @@ public class HomeController : Controller
 
         public IActionResult Validate(string uname, string pass)
     {
-        string path=@"C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\serialisation in web .net\LoginAndRegister\wwwroot\file\details.json";
+        string path=@"C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\LoginAndRegister\wwwroot\file\details.json";
         var str=ReadAllText(path);
         List<Authorisations> users = JsonSerializer.Deserialize<List<Authorisations>>(str);
        
@@ -54,7 +54,7 @@ public class HomeController : Controller
 
        public IActionResult RegistrationPost(string uname,string pass,string pass1)
     {
-        string path=@"C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\serialisation in web .net\LoginAndRegister\wwwroot\file\details.json";
+        string path=@"C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\LoginAndRegister\wwwroot\file\details.json";
         var options=new JsonSerializerOptions{IncludeFields=true};
           List<Authorisations> list=new List<Authorisations>();
         var obj = ReadAllText(path);
