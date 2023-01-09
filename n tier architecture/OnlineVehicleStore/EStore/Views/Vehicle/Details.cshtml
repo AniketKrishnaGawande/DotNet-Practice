@@ -1,0 +1,18 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Details Page";
+}
+
+<div class="text-center">
+    <h1>Vehicle Details</h1>
+
+    @{
+        Vehicle vehicle = (Vehicle)ViewData["vehicleData"];
+        <h2><u>@vehicle?.VehicleId @vehicle?.VehicleName</u></h2>
+        <p>@vehicle?.ExShowroomPrice</p>
+        <p>@vehicle?.OnRoadPrice</p>
+    }
+
+
+
+</div>

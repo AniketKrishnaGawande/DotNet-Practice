@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "BoL": "1.0.0",
+          "dal": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLL.dll": {}
+        }
+      },
+      "BoL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/BoL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BoL.dll": {}
+        }
+      },
+      "dal/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "BoL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/dal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BLL/1.0.0": {
+      "type": "project",
+      "path": "../BLL/BLL.csproj",
+      "msbuildProject": "../BLL/BLL.csproj"
+    },
+    "BoL/1.0.0": {
+      "type": "project",
+      "path": "../BOL/BoL.csproj",
+      "msbuildProject": "../BOL/BoL.csproj"
+    },
+    "dal/1.0.0": {
+      "type": "project",
+      "path": "../DAl/dal.csproj",
+      "msbuildProject": "../DAl/dal.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "BLL >= 1.0.0",
+      "BoL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Aniket\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\DotNet-Practice\\n tier architecture\\OnlineVehicleStore\\EStore\\EStore.csproj",
+      "projectName": "EStore",
+      "projectPath": "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\DotNet-Practice\\n tier architecture\\OnlineVehicleStore\\EStore\\EStore.csproj",
+      "packagesPath": "C:\\Users\\Aniket\\.nuget\\packages\\",
+      "outputPath": "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\DotNet-Practice\\n tier architecture\\OnlineVehicleStore\\EStore\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Aniket\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\DotNet-Practice\\n tier architecture\\OnlineVehicleStore\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\DotNet-Practice\\n tier architecture\\OnlineVehicleStore\\BLL\\BLL.csproj"
+            },
+            "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\DotNet-Practice\\n tier architecture\\OnlineVehicleStore\\BOL\\BoL.csproj": {
+              "projectPath": "C:\\data\\Aniket CDAC data\\IACSD DATA\\Module files\\Dot Net\\own notes\\program to ref\\DotNet-Practice\\n tier architecture\\OnlineVehicleStore\\BOL\\BoL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

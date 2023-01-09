@@ -1,0 +1,17 @@
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\bin\Debug\net7.0\BLL.dll
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\bin\Debug\net7.0\BLL.pdb
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\bin\Debug\net7.0\BoL.dll
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\bin\Debug\net7.0\dal.dll
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\bin\Debug\net7.0\BoL.pdb
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\bin\Debug\net7.0\dal.pdb
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\obj\Debug\net7.0\BLL.dll
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\obj\Debug\net7.0\BLL.pdb
+C:\data\Aniket CDAC data\IACSD DATA\Module files\Dot Net\own notes\program to ref\DotNet-Practice\n tier architecture\OnlineVehicleStore\BLL\obj\Debug\net7.0\ref\BLL.dll
