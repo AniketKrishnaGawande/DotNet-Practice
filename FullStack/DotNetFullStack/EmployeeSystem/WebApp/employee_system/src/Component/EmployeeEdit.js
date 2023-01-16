@@ -1,21 +1,16 @@
+import { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
-import { useEffect } from "react";
-import { useState } from "react";
+
 const EmployeeEdit=()=>{
-    var state = useLocation().state;
- var [ob,setob]=useState();
-    useEffect(()=>{
-setob(...state.employee);
-
-    },[]);
-const sta=()=>{
-return ob;
-}
-
+    var [empOb,setEmpOb]=useState({eId:"",eName:"",eDept:"",eSalary:""});
+var state = useLocation().state;
+useEffect(()=>{
+    setEmpOb={...state.employee};
+},[]);
 return(
     <div>
-        welcome
-        {sta()}
+<input value={empOb.eId}></input>
+
     </div>
 );
 

@@ -25,7 +25,7 @@ const EmployeeList = () => {
                 <td>{emp.eName}</td>
                 <td>{emp.eDept}</td>
                 <td>{emp.eSalary}</td>
-                <Link to={{ pathname: `/Employee/Edit/${emp.eid}`, state: { employee: emp } }}>
+                <Link to={{ pathname: `/Employee/Edit/${emp.eid}`, state:{ employee: emp }}}>
                     <button>Edit</button>
                 </Link>
                 <button onClick={() => { deleteData(emp.eid) }}>Delete</button>
