@@ -17,6 +17,12 @@ public class HomeController : Controller
     {
         return View();
     }
+[HttpPost]
+    public IActionResult Login(string userid, string psw)
+    {
+        
+        return View();
+    }
 
     public IActionResult Privacy()
     {

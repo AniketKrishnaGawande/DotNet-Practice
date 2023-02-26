@@ -3,12 +3,30 @@
 }
 
 <h1 class="display-4">Vehicle Management System</h1>
-<a href="vehicle/list"> <button>List of
-        Vehicles </button></a>
-
-<a asp-area="" asp-controller="Vehicle" asp-action="AddVehicle"><button>Add Vehicle
-    </button> </a>
-</div>
-
-<marquee>This website is developed for education purpose only. It does not claim any copy right</marquee>
-</div>
+<marquee>
+    <h3>Do not Share sensitive passwords</h3>
+</marquee>
+<h3>Login</h3>
+<table>
+    <form method="post" action="Login">
+        <tr>
+            <th><label for="userid">Login Id :: </label></th>
+            <td>
+                <input type="text" name="userid" id="userid">
+            </td>
+        </tr>
+        <tr>
+            <th><label for="psq">Password :: </label></th>
+            <td>
+                <input type="text" name="psw" id="psw">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button type="submit">Login</button>
+            </td>
+        </tr>
+    </form>
+</table>
+<a href="/Home/Register">New Registration</a><br>
+<a href="/Home/Register">forgot password</a>

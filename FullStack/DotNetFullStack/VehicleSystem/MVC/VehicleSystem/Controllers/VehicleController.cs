@@ -30,7 +30,7 @@ public class VehicleController : Controller
     {
         Manager.DeleteVehicles(id);
 
-        return Redirect("List");
+        return RedirectToAction("List");
     }
     [HttpGet]
     public IActionResult AddVehicle()
